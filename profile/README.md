@@ -1,6 +1,11 @@
-## Hi there, Mona Primaveras Here 👋 
+## Hi there, Mona Primaveras Here 👋
 
-<img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink.gif" >
+
+<p align="center">
+  
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink.gif" >
+</p>
+
 
 <!--
 
