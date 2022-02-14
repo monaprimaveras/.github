@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/panda-blink.gif" >
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/bear-blink.gif" >
 </p>
 
 
