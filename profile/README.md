@@ -1,11 +1,8 @@
 ## Hi there, Mona Primaveras Here 👋
 
-
 <p align="center">
-  
-  <img width="100px" height="100px" src="https://raw.githubusercontent.com/monaprimaveras/.github/main/docs/image/bear-blink.gif" >
+  <img width="100px" height="100px" src="https://raw.githubusercontent.com/amirisback/amirisback/master/docs/image/bear-panda/bear-blink.gif" >
 </p>
-
 
 <!--
 
